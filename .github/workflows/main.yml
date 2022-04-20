@@ -38,5 +38,4 @@ jobs:
       - name: What npm version
         run: npm --version
         
-      - run: exit 1
           
